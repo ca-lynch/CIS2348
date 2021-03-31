@@ -1,5 +1,5 @@
-# **CIS 2348 - Homework 3**
-**Repository for Homework ~~2~~ 3 Assignment**<br>
+# **CIS 2348 - Homework ~~2~~ 3**
+**Repository for Homework 3 Assignment**<br>
 This folder contains the required ZyLabs for the Homework 3 Assignment :octocat:
 - [x] ZyLab 10.11
 - [x] ZyLab 10.15
